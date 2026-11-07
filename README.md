@@ -1,6 +1,6 @@
-﻿# Hi, I''m Trung Hai 👋
+﻿# Hi, I'm Trung Hai 👋
 
-I''m a software engineer focused on **mobile (Flutter)**, **frontend (React)**, and **backend systems (Go, Node.js)**. I like building products from scratch — from pixel-perfect client interfaces to scalable backend services.
+I'm a software engineer focused on **mobile (Flutter)**, **frontend (React)**, and **backend systems (Go, Node.js)**. I like building products from scratch — from pixel-perfect client interfaces to scalable backend services.
 
 Currently building [Bloop](https://bloop.top), a private social network built around real-time home screen and lock screen widgets.
 
@@ -43,3 +43,4 @@ A social communication app centered around low-latency chats and real-time inter
 - **Website:** [bloop.top](https://bloop.top)
 - **Email:** [dangtrunghai204@gmail.com](mailto:dangtrunghai204@gmail.com)
 - **GitHub:** [@trunghai04](https://github.com/trunghai04)
+
