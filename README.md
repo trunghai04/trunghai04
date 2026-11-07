@@ -1,4 +1,4 @@
-# 💫 Hi there, I'm Đặng Trung Hải (trunghai04) 👋
+﻿# 💫 Hi there, I'm Đặng Trung Hải (trunghai04) 👋
 
 <div align="center">
   
@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently Building**: [Bloop](https://github.com/trunghai04/Bloop-Widget) — Một mạng xã hội chia sẻ khoảnh khắc qua Home Screen & Lock Screen Widget với mã hóa đầu cuối (E2EE), LiveKit WebRTC call, và kiến trúc backend Golang microservices.
+- 🔭 **Currently Building**: [Bloop](https://bloop.io.vn) — Một mạng xã hội chia sẻ khoảnh khắc qua Home Screen & Lock Screen Widget với mã hóa đầu cuối (E2EE), LiveKit WebRTC call, và kiến trúc backend Golang microservices.
 - 💡 **Core Expertise**: 
   - **Mobile Engineering**: Flutter (Dart), State Management, Real-time Sync, Background Engine, Native iOS/Android Integrations.
   - **Backend & Systems**: Go (Gin, concurrency), Node.js, Python, PostgreSQL, Redis, RESTful API, WebSocket & SSE.
@@ -64,7 +64,7 @@
         <li><b>Backend:</b> Microservices Go (Gin), PostgreSQL 16, Redis 7, Nginx Gateway.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/trunghai04/Bloop-Widget"><b>Xem Repository →</b></a>
+        <a href="https://bloop.io.vn"><b>Truy cập Website: bloop.io.vn 🌐</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -117,3 +117,4 @@
 <div align="center">
   <sub>⭐️ Cảm ơn bạn đã ghé thăm GitHub Profile của mình! Chúc bạn một ngày làm việc hiệu quả! 🚀</sub>
 </div>
+
