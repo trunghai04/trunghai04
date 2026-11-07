@@ -1,92 +1,86 @@
-﻿# 💫 Hi there, I'm Đặng Trung Hải (trunghai04) 👋
+﻿<div align="center">
 
-<div align="center">
-  
-  <a href="https://github.com/trunghai04">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=Software+Engineer+%7C+Web+%26+Mobile+%2B+Backend;Flutter+%2B+React+%2B+Golang+%2B+Node.js;Crafting+Bloop%2C+MuaSamViet%2C+HaLa+%26+More;Passionate+about+Clean+Architecture+%26+High+Scalability" alt="Typing SVG" />
-  </a>
+# 💫 Đặng Trung Hải (trunghai04)
+### **Software Engineer • Mobile & Fullstack Web • Backend Architecture**
 
-  <p align="center">
-    🚀 <i>Specialized in building fullstack Web, cross-platform Mobile apps, and high-performance Backend services.</i>
-  </p>
+<a href="https://github.com/trunghai04">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Mobile+%26+Fullstack+Web;Flutter+%2B+React+%2B+Golang+%2B+Node.js;Architecting+Bloop%2C+MuaSamViet%2C+HaLa+%26+More;Obsessed+with+High+Concurrency+%26+Pixel-Perfect+UI" alt="Typing Banner" />
+</a>
 
-  <p align="center">
-    <a href="mailto:dangtrunghai204@gmail.com"><img src="https://img.shields.io/badge/Email-dangtrunghai204%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/trunghai04"><img src="https://img.shields.io/badge/GitHub-trunghai04-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <img src="https://komarev.com/ghpvc/?username=trunghai04&style=for-the-badge&color=00F0FF&label=VIEWS" alt="Profile Views" />
-  </p>
+<p align="center">
+  <b>Đam mê xây dựng các sản phẩm công nghệ có trải nghiệm người dùng mượt mà, kiến trúc hướng module và hệ thống backend chịu tải cao.</b>
+</p>
 
-</div>
-
----
-
-### 👨‍💻 Giới thiệu (About Me)
-
-- 🔭 **Lĩnh vực thế mạnh**: 
-  - **Mobile Development**: Chuyên sâu **Flutter (iOS & Android)**, kiến trúc State Management, Home/Lock Screen Widget Extension, xử lý real-time, media caching và tối ưu hiệu năng thiết bị.
-  - **Fullstack Web**: **React**, JavaScript/TypeScript, Tailwind CSS, xây dựng Web Portal, trang thương mại điện tử, Admin Dashboard trực quan.
-  - **Backend & Microservices**: **Go (Golang)**, **Node.js**, kiến trúc RESTful APIs, WebSocket/SSE thời gian thực, thiết kế cơ sở dữ liệu và tối ưu truy vấn.
-- 💼 **Dự án tiêu biểu**: **Bloop** ([bloop.top](https://bloop.top)), **MuaSamViet**, **HaLa**, cùng các giải pháp ứng dụng Web & Mobile hoàn chỉnh.
-- 🎯 **Mục tiêu**: Xây dựng các sản phẩm phần mềm chỉn chu, giao diện thân thiện, trải nghiệm mượt mà với nền tảng backend ổn định và khả năng mở rộng cao.
-
----
-
-### 🛠️ Kỹ năng & Công nghệ (Tech Stack)
-
-<div align="center">
-
-| Lĩnh vực | Công nghệ chính |
-| :--- | :--- |
-| **Mobile Apps** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white) |
-| **Frontend Web** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend & APIs** | ![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Databases & Cache** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Realtime & Media** | ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) ![LiveKit](https://img.shields.io/badge/LiveKit-00253D?style=flat-square&logo=livekit&logoColor=white) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+<p align="center">
+  <a href="https://bloop.top"><img src="https://img.shields.io/badge/Flagship_Project-bloop.top-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="mailto:dangtrunghai204@gmail.com"><img src="https://img.shields.io/badge/Contact-dangtrunghai204%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/trunghai04"><img src="https://img.shields.io/badge/GitHub-trunghai04-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 </div>
 
 ---
 
-### 📌 Dự án tiêu biểu (Featured Projects)
+### 🚀 Năng lực cốt lõi (Core Competencies)
+
+```text
+┌─────────────────────────────────┬─────────────────────────────────┬─────────────────────────────────┐
+│     📱 MOBILE ENGINEERING       │      🌐 FULLSTACK WEB APP       │    ⚡ BACKEND & DISTRIBUTED     │
+├─────────────────────────────────┼─────────────────────────────────┼─────────────────────────────────┤
+│ • Flutter (Dart) iOS & Android  │ • React, TypeScript, Next.js    │ • Golang (Gin, Concurrency)     │
+│ • Home & Lock Screen Widgets    │ • Tailwind CSS, Responsive UI   │ • Node.js, Express, REST APIs   │
+│ • State Management & Caching    │ • Admin Portals & Dashboards    │ • PostgreSQL, Redis, MySQL      │
+│ • E2EE Encryption & Security    │ • E-Commerce & Platform Apps    │ • WebSocket, SSE, LiveKit WebRTC│
+└─────────────────────────────────┴─────────────────────────────────┴─────────────────────────────────┘
+```
+
+---
+
+### 📌 Dự án nổi bật (Featured Ecosystem)
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="34%" valign="top">
       <h3 align="center">📱 Bloop</h3>
       <p align="center">
-        <i>Private Moments & Live Widget Social Network</i>
+        <b>Live Moments & Widget Social Network</b><br>
+        <i>Flagship Ecosystem</i>
       </p>
+      <p>Nền tảng mạng xã hội riêng tư kết hợp tương tác widget thời gian thực trên màn hình chính và màn hình khóa.</p>
       <ul>
-        <li><b>Mobile:</b> Flutter (iOS & Android) đồng bộ khoảnh khắc lên Home & Lock Screen Widget.</li>
-        <li><b>Realtime:</b> Gọi thoại/video WebRTC (LiveKit), WebSocket, SSE.</li>
-        <li><b>Bảo mật:</b> Mã hóa đầu-cuối (E2EE), sao lưu mã PIN.</li>
-        <li><b>Backend:</b> Go (Gin), PostgreSQL, Redis, Nginx Gateway.</li>
+        <li><b>Mobile:</b> Flutter (iOS & Android) với widget engine đồng bộ ảnh/video bạn bè tức thì.</li>
+        <li><b>Bảo mật:</b> Mã hóa đầu-cuối (E2EE) tin nhắn với cơ chế PIN Backup Phase 2B.</li>
+        <li><b>Realtime:</b> Voice/Video Call WebRTC chuẩn LiveKit, nhắn tin qua WebSocket & SSE.</li>
+        <li><b>Backend:</b> Microservices Go (Gin), PostgreSQL 16, Redis 7, Nginx Gateway, Cloudflare Tunnel.</li>
       </ul>
       <p align="center">
-        <a href="https://bloop.top"><b>Truy cập Website: bloop.top 🌐</b></a>
+        <a href="https://bloop.top"><b>🌐 Khám phá tại: bloop.top →</b></a>
       </p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">🛍️ MuaSamViet</h3>
       <p align="center">
-        <i>E-Commerce Platform & Shopping Solution</i>
+        <b>E-Commerce & Digital Commerce Hub</b><br>
+        <i>Multi-channel Platform</i>
       </p>
+      <p>Hệ sinh thái thương mại điện tử đa nền tảng tối ưu trải nghiệm mua sắm và quản lý bán hàng.</p>
       <ul>
-        <li><b>Nền tảng:</b> Hệ sinh thái Mua Sắm Việt đa kênh (Web, Mobile Client & Admin).</li>
-        <li><b>Tính năng:</b> Quản lý sản phẩm, giỏ hàng, đặt hàng, tích hợp thanh toán và xử lý đơn hàng tự động.</li>
-        <li><b>Stack:</b> React / Web, Mobile, RESTful Backend APIs, cơ sở dữ liệu tối ưu tìm kiếm và giao dịch.</li>
+        <li><b>Frontend Web & Mobile:</b> Giao diện mua sắm trực quan, tìm kiếm thông minh, giỏ hàng mượt mà.</li>
+        <li><b>Hệ thống quản trị:</b> Dashboard cho chủ shop theo dõi đơn hàng, quản lý kho và doanh thu theo thời gian thực.</li>
+        <li><b>Backend:</b> Kiến trúc API RESTful hiệu năng cao, tối ưu hóa truy vấn cơ sở dữ liệu và thanh toán an toàn.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">💬 HaLa</h3>
       <p align="center">
-        <i>Interactive Community & Social Experience</i>
+        <b>Interactive Community & Real-time App</b><br>
+        <i>Social Experience</i>
       </p>
+      <p>Ứng dụng kết nối, giao tiếp và tương tác cộng đồng thế hệ mới.</p>
       <ul>
-        <li><b>Mô tả:</b> Ứng dụng kết nối, trò chuyện và trải nghiệm cộng đồng hiện đại.</li>
-        <li><b>Tính năng:</b> Nhắn tin nhanh, tương tác xã hội, đồng bộ dữ liệu thời gian thực và giao diện thân thiện.</li>
-        <li><b>Stack:</b> Mobile/Web kết hợp dịch vụ Backend tối ưu độ trễ thấp và bảo mật người dùng.</li>
+        <li><b>Trải nghiệm:</b> Nhắn tin nhanh chóng, chia sẻ trạng thái, tương tác xã hội trực tiếp.</li>
+        <li><b>Đồng bộ dữ liệu:</b> Cập nhật trạng thái tức thời, đồng bộ liên tục trên nhiều thiết bị.</li>
+        <li><b>Kiến trúc:</b> Tối ưu độ trễ thấp, giao diện hiện đại với trải nghiệm người dùng tinh gọn.</li>
       </ul>
     </td>
   </tr>
@@ -94,30 +88,77 @@
 
 ---
 
-### 📊 Thống kê hoạt động (GitHub Stats)
+### 🛠️ Kỹ năng & Vũ khí công nghệ (Tech Stack)
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=trunghai04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trunghai04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+#### 📱 Mobile & Client Applications
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS_Widget_Kit-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+#### 🌐 Fullstack Web Development
+![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### ⚡ Backend, Concurrency & Microservices
+![Go](https://img.shields.io/badge/Golang_1.24-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin Framework](https://img.shields.io/badge/Gin_Web_Engine-008ECF?style=for-the-badge&logo=go&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🗄️ Databases, In-Memory Store & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_7-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC_%2F_LiveKit-FF5722?style=for-the-badge&logo=webrtc&logoColor=white)
+
+#### 🚢 DevOps, Containerization & Infrastructure
+![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx_Gateway-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git_%26_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
 ---
 
-### 📬 Kết nối với mình (Get In Touch)
+### 💡 Triết lý kỹ thuật (Engineering Philosophy)
 
-<p align="center">
-  Bạn có ý tưởng dự án Web, Mobile hay muốn xây dựng hệ thống Backend? Hãy kết nối với mình nhé!
-</p>
+> *"Phần mềm chất lượng cao là sự kết hợp hài hòa giữa giao diện người dùng mượt mà, kiến trúc mã nguồn sạch (Clean Architecture) và hệ thống backend bền bỉ, sẵn sàng mở rộng."*
 
-<p align="center">
-  <a href="mailto:dangtrunghai204@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-dangtrunghai204%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/trunghai04">
-    <img src="https://img.shields.io/badge/GitHub-trunghai04-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+- 📐 **Clean Architecture & SOLID**: Phân tầng rành mạch giữa Presentation, Domain, Data và Infrastructure.
+- ⚡ **Performance First**: Tối ưu 60fps trên thiết bị di động, giảm thiểu re-render trên web và tinh gọn query database.
+- 🔒 **Security by Design**: Chú trọng bảo mật đầu-cuối (E2EE), quản lý phiên an toàn và bảo vệ dữ liệu người dùng.
+
+---
+
+### 📬 Kết nối & Hợp tác (Get In Touch)
 
 <div align="center">
-  <sub>⭐️ Cảm ơn bạn đã ghé thăm trang cá nhân! Rất vui được kết nối và đồng hành cùng phát triển! 🚀</sub>
+
+<p>Bạn đang tìm kiếm một kỹ sư phát triển ứng dụng <b>Mobile</b>, <b>Web</b> hoặc xây dựng hạ tầng <b>Backend</b> chất lượng cao? Hãy kết nối với mình nhé!</p>
+
+<a href="mailto:dangtrunghai204@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-dangtrunghai204%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://bloop.top">
+  <img src="https://img.shields.io/badge/Website-bloop.top-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" />
+</a>
+<a href="https://github.com/trunghai04">
+  <img src="https://img.shields.io/badge/GitHub-trunghai04-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br><br>
+
+<sub>⭐️ Cảm ơn bạn đã ghé thăm hồ sơ của mình! Chúc bạn một ngày tràn đầy năng lượng và sáng tạo! 🚀</sub>
+
 </div>
